@@ -13,7 +13,7 @@ Simple Redis Caching
 Clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/elidgbarbosa/nestjs-redis-caching.git
 ```
 
 Switch to the repo folder
