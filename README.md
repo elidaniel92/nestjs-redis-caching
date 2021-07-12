@@ -1,8 +1,10 @@
+# nestjs-redis-caching
+
+Simple Redis Caching 
 
 # Getting started
 
 ## Installation
-
 
 [Install Redis](https://redis.io/topics/quickstart) 
 
@@ -17,7 +19,7 @@ git clone https://github.com/
 Switch to the repo folder
 
 ```bash
-cd nestjs-cache-redis
+$ cd nestjs-cache-redis
 ```
     
 Install dependencies
