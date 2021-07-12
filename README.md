@@ -19,7 +19,7 @@ git clone https://github.com/elidgbarbosa/nestjs-redis-caching.git
 Switch to the repo folder
 
 ```bash
-$ cd nestjs-cache-redis
+$ cd nestjs-redis-cache
 ```
     
 Install dependencies
