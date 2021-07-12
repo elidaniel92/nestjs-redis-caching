@@ -6,9 +6,9 @@ Simple Redis Caching
 
 ## Installation
 
-[Install Redis](https://redis.io/topics/quickstart) 
+[Install and Start Mongo](https://docs.mongodb.com/guides/server/install/)
 
-[Install Mongo](https://docs.mongodb.com/guides/server/install/)
+[Install and Start Redis](https://redis.io/topics/quickstart) 
 
 Clone the repository
 
@@ -33,3 +33,5 @@ $ npm install
 ```bash
 $ npm run start
 ```
+
+
